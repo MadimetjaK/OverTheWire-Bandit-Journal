@@ -5,7 +5,6 @@
 My level by level walkthroughs and notes for OverTheWire’s Bandit wargame, covering Linux basics, SSH, and command-line skills.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         |
 |-----------------------------------------------|
