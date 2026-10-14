@@ -11,6 +11,6 @@ The goal of this level was for me to log into the game using SSH. Once logged in
     4. exit
 ```
 
-### Notes:
+### Reflection:
 
 The level introduced simple directory enumeration through the "ls" command and file reading with the "cat" command. The use of port 2220 for the ssh connection instead of the standard port 22 also taught me that protocols are agnostic of port numbers and services such as ssh can be instructed to bind to any unused port, something I was not aware of.  
