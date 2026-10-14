@@ -1,8 +1,8 @@
-# OverTheWire-Bandit-Journal
+# OverTheWire - Bandit Journal
 
 ## About
 
-My level by level walkthroughs and notes for OverTheWire’s Bandit wargame, covering Linux basics, SSH, and command-line skills.
+This repository contains documentation of my level by level steps and notes for OverTheWire’s Bandit wargame, covering Linux basics, SSH, and command-line skills.
 
 ## Skills
 
