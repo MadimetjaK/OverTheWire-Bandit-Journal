@@ -24,4 +24,4 @@ The goal of this level was for me to retrieve the password which was stored in t
 
 ### Reflection:
 
-This level introduced filetype parsing using the "file" command, which I used to identify the file with the ASCII text to retrieve the password. I learnt that since the Linux filenames can sometimes have no extension at all, filetype parsing with this tool allows me to determine a filetype by its contents.
+This level introduced filetype parsing using the "file" command, which I used to identify the file with the ASCII text to retrieve the password. I learnt that since the Linux filenames can sometimes have no extension at all, hence filetype parsing with this tool allows me to determine a filetype by its contents.
