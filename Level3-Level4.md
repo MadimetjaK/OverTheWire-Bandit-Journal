@@ -9,9 +9,9 @@ The goal of this level was for me to retrieve the password which was stored in a
 2. ls
 3. cd inhere
 4. ls -l
-5. cat total (cat: total: No such file or directory)
+5. cat total                  (cat: total: No such file or directory)
 6. ls -a
-7. cat ...Hiding-From-You (Password Retrieved)
+7. cat ...Hiding-From-You     (Password Retrieved)
 8. exit
 ```
 
