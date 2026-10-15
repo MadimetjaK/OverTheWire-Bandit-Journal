@@ -8,7 +8,7 @@ The goal of this level was for me to retrieve the password which was stored in t
 1. ssh bandit4@bandit.labs.overthewire.org -p 2220
 2. ls
 3. cd inhere
-4. file -file00 (file: Cannot open `ile00'     (No such file or directory))
+4. file -file00 (file: Cannot open 'file00'    (No such file or directory))
 5. file ./"-file00"                            (./-file00: data)
 6. file ./"-file01"                            (./-file01: data)
 7. file ./"-file02"                            (./-file02: OpenPGP Secret Key)
