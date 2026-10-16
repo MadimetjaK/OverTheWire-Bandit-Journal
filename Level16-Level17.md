@@ -22,4 +22,4 @@ The goal of this level was for me to retrieve the password by submitting the pas
 
 ### Reflection:
 
-This level reinforced secure network communication through tool "openssl" tool, key based authentication, and more importantly introduced port scanning through the use of the network mapping tool "nmap", which all enabled me to retrieve the password by submitting a payload on the appropriate SSL/TLS listener port.
+This level reinforced secure network communication through the "openssl" tool, key based authentication, and more importantly introduced port scanning through the use of the network mapping tool "nmap", which all enabled me to retrieve the password by submitting a payload on the appropriate SSL/TLS listener port.
