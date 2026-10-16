@@ -26,6 +26,6 @@ The goal of this level was for me to retrieve the password which was stored in /
 19. exit
 ```
 
-### Notes:
+### Reflection:
 
 This level introduced key based authentication over ssh rather than traditional passwords through the use of an ssh private key to authenticate as another and retrieve the password. A point of interest here was the importance of private key security; here, the assigned key permissions to the private key were a primary determinant for whether the key is treated as valid or not, as the key acts as the digital signature that guarantees the identity of the user, hence preventing accidental leaks by enforcing least privilege permissions becomes fundamental.
