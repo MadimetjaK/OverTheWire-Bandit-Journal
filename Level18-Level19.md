@@ -5,8 +5,8 @@ The goal of this level was for me to retrieve the password which was stored read
 ### Commands Used:
 
 ```bash
-1. ssh bandit18@bandit.labs.overthewire.org -p 2220 (ByeBye !)
-2. ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme (Password Retrieved
+1. ssh bandit18@bandit.labs.overthewire.org -p 2220                  (ByeBye !)
+2. ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme       (Password Retrieved
 ```
 
 ### Reflection:
