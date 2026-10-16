@@ -19,6 +19,6 @@ The goal of this level was for me to retrieve the password which was stored in /
 12. exit
 ```
 
-### Notes:
+### Reflection:
 
 This level introduced basic network communications through the use of the network utility "nc"(netcat) and enabled me to retrieve the password by submitting a payload on the listener port.
