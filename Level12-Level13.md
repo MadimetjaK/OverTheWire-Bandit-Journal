@@ -55,6 +55,6 @@ The goal of this level was for me to retrieve the password which was stored in t
 48. exit
 ```
 
-### Notes:
+### Reflection:
 
 This level introduced hexdump reversing through the "xxd" utility, manual file decompression through the archiving utilities "tar" and "gzip", and reinforced filetype identification through file headers through the "file" command, which all enabled me to retrieve the password.
