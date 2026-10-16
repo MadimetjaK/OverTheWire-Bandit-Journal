@@ -17,4 +17,4 @@ The goal of this level was for me to retrieve the password which was stored in t
 
 ### Reflection:
 
-This level reinforced me that Linux hides certain files by naming convention. These files have filenames that start with a period {.filename}, and are usually files that store important information such as system configurations.
+This level reinforced text search and filtering through the text reordering utility "sort" and the duplicate line filtering utility "uniq", which both enabled me to reorder the data.txt file and filter for any unique value in order to retrieve the password. Another point of interest was the pipe utility "|" which is a utility that enabled me to pass the reordered results from the "sort" command directly to the "uniq" command to retrieve the passsword. This utility allows me to chain multiple single purpose utilities together to make a more robust command.
